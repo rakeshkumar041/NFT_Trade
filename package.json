@@ -1,0 +1,25 @@
+{
+  "name": "nft_trade",
+  "version": "1.0.0",
+  "description": "Script to trade NFT",
+  "main": "index.js",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.14",
+    "dotenv": "^16.0.2",
+    "opensea-js": "^4.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshkumar041/NFT_Trade.git"
+  },
+  "author": "Rakesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshkumar041/NFT_Trade/issues"
+  },
+  "homepage": "https://github.com/rakeshkumar041/NFT_Trade#readme"
+}
